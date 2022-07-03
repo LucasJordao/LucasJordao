@@ -1,6 +1,6 @@
 ### Opa, tudo bom? 👋
 
-- 🔭 Linguagens que mais tenho conhecimento são: Java, Reactjs e Nodejs
+- 🔭 Linguagens/frameworks que mais tenho conhecimento são: Java, Kotlin, SpringBoot, Micronaut, Reactjs e Nodejs
 - 🌱 Estudando ReactJs
 - 📫 Meu email para contato: lucaswill12@hotmail.com
 -->
