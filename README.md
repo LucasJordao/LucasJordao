@@ -3,7 +3,6 @@
 - 🔭 Linguagens/frameworks que mais tenho conhecimento são: Java, Kotlin, SpringBoot, Micronaut, Reactjs e Nodejs
 - 🌱 Estudando ReactJs
 - 📫 Meu email para contato: lucaswill12@hotmail.com
--->
 
  ##
 
@@ -22,7 +21,6 @@
   <img align="center" alt="Lucas-Kotlin" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg">
   <img align="center" alt="Lucas-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
   <img align="center" alt="Lucas-Spring" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://picrew.me/shareImg/org/202205/338224_vkq4zubH.png">
 </div>
   
   ##
